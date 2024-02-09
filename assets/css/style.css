@@ -1488,7 +1488,7 @@ section {
 
 .team .member .member-info {
   padding: 10px 15px 20px 15px;
-  text-align: left;
+  text-align: justify;
 }
 
 .team .member .member-info h4 {
@@ -1511,7 +1511,7 @@ section {
   padding-top: 15px;
   line-height: 26px;
   color: #5e5e5e;
-  text-align: left;
+  text-align: justify;
 }
 
 .team .member:hover {
